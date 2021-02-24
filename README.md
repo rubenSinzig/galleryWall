@@ -3,7 +3,7 @@
 Small App using HTML and CSS to make a nice looking gallery wall.
 
 ```css
-:hover
+:hover{}
 position: absolute;
 display: inline-block;
 transform: rotate();
