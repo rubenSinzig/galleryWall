@@ -1,16 +1,22 @@
+:root {
+  background-color: black;
+}
 div {
   display: inline-block;
   width: 30rem;
   height: 20rem;
-  border: 2px black solid;
+  border: 2px gray solid;
   padding: 1rem 1rem 5rem 1rem;
+  background-color: black;
+  opacity: 70%;
+  box-shadow: 10px 10px 25px 10px rgb(128, 128, 128, 0.25);
 }
 div img {
   width: 100%;
   height: 100%;
   filter: grayscale(0.9);
-  opacity: 50%;
-  border: 2px black solid;
+  opacity: 75%;
+  border: 2px gray solid;
 }
 img:hover {
   filter: none;
