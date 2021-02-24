@@ -1,0 +1,42 @@
+div {
+  display: inline-block;
+  width: 30rem;
+  height: 1 rem;
+  border: 2px black solid;
+  padding: 1rem 1rem 5rem 1rem;
+}
+div img {
+  width: 100%;
+  height: 100%;
+  filter: grayscale(0.9);
+  opacity: 50%;
+  border: 2px black solid;
+}
+img:hover {
+  filter: none;
+  opacity: 100%;
+}
+.placeOne {
+  position: absolute;
+  top: 8rem;
+  left: 10rem;
+  transform: rotate(12deg);
+}
+.placeTwo {
+  position: absolute;
+  top: 20rem;
+  left: 28rem;
+  transform: rotate(-8deg);
+}
+.placeThree {
+  position: absolute;
+  top: 35rem;
+  left: 45rem;
+  transform: rotate(8deg);
+}
+.placeFour {
+  position: absolute;
+  top: 45rem;
+  left: 65rem;
+  transform: rotate(-12deg);
+}
