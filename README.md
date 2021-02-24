@@ -10,5 +10,6 @@ transform: rotate();
 filter: grayscale();
 ```
 
-[_index.html_](https://github.com/rubenSinzig/galleryWall/blob/main/index.html)
-[_style.css_](https://github.com/rubenSinzig/galleryWall/blob/main/css/style.css)
+Link: [_index.html_](https://github.com/rubenSinzig/galleryWall/blob/main/index.html)
+
+Link: [_style.css_](https://github.com/rubenSinzig/galleryWall/blob/main/css/style.css)
