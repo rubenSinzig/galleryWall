@@ -15,7 +15,6 @@ div img {
 img:hover {
   filter: none;
   opacity: 100%;
-  transition: ease-in;
 }
 .placeOne {
   position: absolute;
